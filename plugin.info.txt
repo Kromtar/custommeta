@@ -1,5 +1,5 @@
 base   custommeta
-author Federico Jensen
-date   2024-09-19
+author Kromtar
+date   2024-09-20
 name   Custom Meta plugin
 desc   Add custom metadata to page
